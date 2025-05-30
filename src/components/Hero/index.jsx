@@ -12,7 +12,7 @@ const Hero = () => (
                     <span className="text-[#556037] text-[1.375rem]/[1.3] lg:text-[2.5rem]/[1.3] lg:inline">The Korean Needle-Free Botox Alternative:</span>
                     <span className="text-black text-2xl/[1.4] lg:text-[2.5rem]/[1.3] lg:inline"> Lift Deep Wrinkles and Revives a Youthful, Natural Look... In a Few Days*</span>
                 </h1>
-                <img src="/noor.webp" alt="Customer 1" className="w-full xs:hidden" />
+                <img src="/noor.webp" alt="Noor Product" className="w-full xs:hidden" />
                 <ul className="font-gotham text-left xs:text-center text-base/[1.4] xs:text-xl/[1.4] text-[#333] my-4 xs:my-5">
                     <li className="before-check lg:mb-0.5">Visible Results in as little as 2-4 Days*</li>
                     <li className="before-check lg:mb-0.5">Relaxes muscles without any risk*</li>
@@ -30,7 +30,7 @@ const Hero = () => (
 
             </div>
             <div className="hidden xs:block w-[70vw]">
-                <img src="/noor.webp" alt="Customer 1" className="w-full" />
+                <img src="/noor.webp" alt="Noor Product" className="w-full" />
             </div>
         </div>
     </section>

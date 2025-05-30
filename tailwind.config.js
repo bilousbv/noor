@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        gotham: ['Montserrat', 'sans-serif'],
+        gotham: ['Gotham', 'sans-serif'],
         roboto: ['Roboto', 'sans-serif'],
       },
     },
